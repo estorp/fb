@@ -1,4 +1,4 @@
 .vscode
- flaskblog/__pycache__/
- Pipfile.lock
- flaskblog2.py
+flaskblog/__pycache__/
+Pipfile.lock
+flaskblog2.py
